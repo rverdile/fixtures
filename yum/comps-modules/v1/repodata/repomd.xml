@@ -26,12 +26,12 @@
     <open-size>1271</open-size>
   </data>
   <data type="comps">
-    <checksum type="sha256">ce08204cbaacd541dc2d87c673d26d0c98e9a664ba6f05cb40d1bf17fa181a2f</checksum>
-    <open-checksum type="sha256">fddddf26cab6f93755ae7f1faadfdd9b39711d9ea8b1ed6f4af2027b7b365017</open-checksum>
-    <location href="repodata/ce08204cbaacd541dc2d87c673d26d0c98e9a664ba6f05cb40d1bf17fa181a2f-comps.xml.zst"/>
-    <timestamp>1738954818</timestamp>
-    <size>400</size>
-    <open-size>929</open-size>
+    <checksum type="sha256">3fda32e986db1e880c339054aa31f1cc48f2ae2bb3bb3b1b8aafcc8c41c1076d</checksum>
+    <open-checksum type="sha256">52cbfdbe967f21aa5259f3d6908a4cfa31bd16b1e6e449ac696823c946ae1cb3</open-checksum>
+    <location href="repodata/3fda32e986db1e880c339054aa31f1cc48f2ae2bb3bb3b1b8aafcc8c41c1076d-comps.xml.zst"/>
+    <timestamp>1738962564</timestamp>
+    <size>398</size>
+    <open-size>930</open-size>
   </data>
   <data type="modules">
     <checksum type="sha256">e9d344bfb7db9c1aa711198200dfe1adf21adaa04e094252608b7fbd3c68a877</checksum>
