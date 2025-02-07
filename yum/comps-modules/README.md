@@ -1,4 +1,4 @@
-# Modules
+# comps-modules
 These repositories were created for testing comps groups and module streams metadata.
 
 ## v1
@@ -48,3 +48,6 @@ These repositories were created for testing comps groups and module streams meta
 |      | 6 |
 | Walrus | 0.71 |
 |        | 5.21 |
+
+### Package Updates
+- duck 0.6 --> duck 0.8
