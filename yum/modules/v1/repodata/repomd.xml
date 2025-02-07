@@ -37,7 +37,7 @@
     <checksum type="sha256">e9d344bfb7db9c1aa711198200dfe1adf21adaa04e094252608b7fbd3c68a877</checksum>
     <open-checksum type="sha256">e17c188b5aa20a964de182c4315b06a25a49a8a8fd0829309e0c7d668367a52b</open-checksum>
     <location href="repodata/e9d344bfb7db9c1aa711198200dfe1adf21adaa04e094252608b7fbd3c68a877-modules.yaml.zst"/>
-    <timestamp>1738955027</timestamp>
+    <timestamp>1738960027</timestamp>
     <size>467</size>
     <open-size>1969</open-size>
   </data>

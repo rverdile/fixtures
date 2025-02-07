@@ -1,5 +1,5 @@
 # Modules
-These repositories were created for testing comps groups and module streams metadata
+These repositories were created for testing comps groups and module streams metadata.
 
 ## v1
 
@@ -21,7 +21,6 @@ These repositories were created for testing comps groups and module streams meta
 |--|--|
 | Kangaroo | 0 |
 | Duck     | 0 |
-| Walrus   | 0.71 |
 
 ## v2
 
