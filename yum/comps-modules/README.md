@@ -50,5 +50,3 @@ These repositories were created for testing comps groups and module streams meta
 | Walrus | 0.71 |
 |        | 5.21 |
 
-### Package Updates
-- duck 0.6 --> duck 0.8
