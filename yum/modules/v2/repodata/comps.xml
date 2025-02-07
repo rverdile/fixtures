@@ -11,6 +11,7 @@
     <packagelist>
       <packagereq type="mandatory">cockateel</packagereq>
       <packagereq type="mandatory">penguin</packagereq>
+      <packagereq type="mandatory">duck</packagereq>
     </packagelist>
   </group>
   <group>
