@@ -21,6 +21,7 @@ These repositories were created for testing comps groups and module streams meta
 |--|--|
 | Kangaroo | 0 |
 | Duck     | 0 |
+| Walrus   | 0.71 |
 
 ## v2
 
