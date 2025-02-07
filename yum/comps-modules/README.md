@@ -29,6 +29,7 @@ These repositories were created for testing comps groups and module streams meta
 |--|--|
 | Birds | Cockateel |
 |       | Penguin |
+|       | Duck |
 | Mammals | Bear |
 |         | Cat |
 
