@@ -2,7 +2,7 @@ name: pages directory listing
 on: [push]
 
 jobs:
-  pages-directory-listing-release:
+  pages-directory-listing:
     runs-on: ubuntu-latest
     name: Actions Template
     steps:
