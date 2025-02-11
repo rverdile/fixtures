@@ -16,6 +16,11 @@ jobs:
         with:
           FOLDER: fixtures
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'fixtures'      # upload generated folder
+
      # - name: Deploy to Pages
       #  uses: JamesIves/github-pages-deploy-action@v4.6.8
        # with:
