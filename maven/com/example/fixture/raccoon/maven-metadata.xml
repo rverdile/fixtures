@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.example.fixture</groupId>
-  <artifactId>fixture-package-a</artifactId>
+  <artifactId>raccoon</artifactId>
   <versioning>
     <release>2.0.0.rhlw-00001</release>
     <versions>

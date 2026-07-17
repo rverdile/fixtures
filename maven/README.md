@@ -7,18 +7,33 @@ Contains Maven repository fixtures.
 Fixtures follow the standard Maven repository layout:
 `{groupId_path}/{artifactId}/{version}/{groupId}.{artifactId}.{version}.{ext}`
 
-Release qualifiers are embedded in the version string (e.g. `1.0.0.redhat-00001`),
+Release qualifiers are embedded in the version string (e.g. `1.0.0.release-00001`),
 matching the pattern `[a-zA-Z]+-\d+`.
 
 ## Packages
 
-### com.example.fixture / fixture-package-a
+### com.example.fixture / raccoon
 
 | Version | Release |
 |---------|---------|
 | 1.0.0.rhlw-00001 | rhlw-00001 |
 | 1.0.0.rhlw-00002 | rhlw-00002 |
 | 2.0.0.rhlw-00001 | rhlw-00001 |
+
+### blissed / blissed
+
+| Version | Release |
+|---------|---------|
+| 1.0-beta-3 | — |
+| 1.0-beta-3.rhlw-00001 | rhlw-00001 |
+| 1.0-beta-3.rhlw-00002 | rhlw-00002 |
+
+### org.yaml / snakeyaml
+
+| Version | Release |
+|---------|---------|
+| 1.33 | — |
+| 1.33.rhlw-00001 | rhlw-00001 |
 
 ## How to add a new fixture
 
